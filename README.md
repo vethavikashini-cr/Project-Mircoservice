@@ -2,7 +2,7 @@
 
 
 
-Simple starter template for E6156 projects for fall 2023.
+Project Microservice for the Columni Project
 
 # Directory Structure
 
